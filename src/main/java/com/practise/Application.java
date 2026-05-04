@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
 	public static void main(String[] args) {
-		// comment to check is webhook working or not
+		// comment to check is webhook working
 		System.out.println("Hello from Java Application for Jenkins CI/CD!");
 	}
 
